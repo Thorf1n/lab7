@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\bin\Debug\net6.0\TaskScheduler.exe
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\bin\Debug\net6.0\TaskScheduler.deps.json
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\bin\Debug\net6.0\TaskScheduler.runtimeconfig.json
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\bin\Debug\net6.0\TaskScheduler.dll
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\bin\Debug\net6.0\TaskScheduler.pdb
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.dll
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\refint\TaskScheduler.dll
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.pdb
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\TaskScheduler.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\lab7\TaskScheduler\obj\Debug\net6.0\ref\TaskScheduler.dll

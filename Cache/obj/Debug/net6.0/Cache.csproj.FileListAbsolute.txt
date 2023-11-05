@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\lab7\Cache\bin\Debug\net6.0\Cache.exe
+C:\Users\Thorfin\source\repos\lab7\Cache\bin\Debug\net6.0\Cache.deps.json
+C:\Users\Thorfin\source\repos\lab7\Cache\bin\Debug\net6.0\Cache.runtimeconfig.json
+C:\Users\Thorfin\source\repos\lab7\Cache\bin\Debug\net6.0\Cache.dll
+C:\Users\Thorfin\source\repos\lab7\Cache\bin\Debug\net6.0\Cache.pdb
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.dll
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\refint\Cache.dll
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.pdb
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\Cache.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\lab7\Cache\obj\Debug\net6.0\ref\Cache.dll
